@@ -1,0 +1,68 @@
+[
+	{
+		"id": "1",
+		"shopname": "应茶",
+		"imgUrl": "https://fuss10.elemecdn.com/4/8f/6e89abc626d5b2b9f4f59be13c3ddpng.png?imageMogr/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+		"shopprice": "15",
+		"sendprice": "1",
+		"xinyong": "4.8",
+		"dan": "1124",
+		"juli":"944m",
+		"sendtime":"29"
+	},
+	{
+		"id": "2",
+		"shopname": "大嘴煲煲粤式快餐",
+		"imgUrl": "https://fuss10.elemecdn.com/6/17/33e15ed8e3c687252970036a651bcjpeg.jpeg?imageMogr/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+		"shopprice": "10",
+		"sendprice": "2",
+		"xinyong": "4.6",
+		"dan": "2120",
+		"juli":"1.44km",
+		"sendtime":"39"
+	},
+	{
+		"id": "3",
+		"shopname": "周记卤鸭",
+		"imgUrl": "https://fuss10.elemecdn.com/c/2a/41e5ff5a123f114b4f3ab8383770djpeg.jpeg?imageMogr/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+		"shopprice": "15",
+		"sendprice": "2",
+		"xinyong": "4.3",
+		"dan": "59",
+		"juli":"968m",
+		"sendtime":"31"
+	},
+	{
+		"id": "4",
+		"shopname": "味小煲",
+		"imgUrl": "https://fuss10.elemecdn.com/5/a2/61a33e988ae8cc402bee77fe4315cpng.png?imageMogr/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+		"shopprice": "15",
+		"sendprice": "2",
+		"xinyong": "4.7",
+		"dan": "1151",
+		"juli":"1.09km",
+		"sendtime":"31"
+	},
+	{
+		"id": "5",
+		"shopname": "易梦餐馆",
+		"imgUrl": "https://fuss10.elemecdn.com/e/d5/2894ea887cff71561ba72132e47e7jpeg.jpeg?imageMogr/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+		"shopprice": "0",
+		"sendprice": "1",
+		"xinyong": "4.4",
+		"dan": "503",
+		"juli":"1.09km",
+		"sendtime":"37"
+	},
+	{
+		"id": "6",
+		"shopname": "嘟嘟汉堡",
+		"imgUrl": "https://fuss10.elemecdn.com/9/0f/1ae412df9deeb866d7a29442a1139jpeg.jpeg?imageMogr/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+		"shopprice": "15",
+		"sendprice": "2",
+		"xinyong": "4.6",
+		"dan": "486",
+		"juli":"1.09km",
+		"sendtime":"37"
+	}
+]
